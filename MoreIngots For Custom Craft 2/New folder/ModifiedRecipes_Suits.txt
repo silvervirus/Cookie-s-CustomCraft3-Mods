@@ -1,0 +1,113 @@
+ModifiedRecipes: 
+(
+    ItemID:CuredReginald; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Reginald; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+
+        Unlocks: NutrientBlock;       
+),
+(
+ItemID: ReinforcedDiveSuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AramidFibers;
+        Required: 2;
+    ),
+    (
+        ItemID: Diamond;
+        Required: 4;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 2;
+    )'
+    (
+        ItemID: Titanium;
+        Required: 5;
+    );
+    LinkedItemIDs: ReinforcedGloves;
+    Unlocks: ; 
+),
+(
+ItemID: RadiationSuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Lead;
+        Required: 1;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 2;
+    ),
+   (
+        ItemID: Titanium;
+        Required: 1;
+    );
+    LinkedItemIDs: RadiationHelmet,RadiationGloves;
+    Unlocks: ; 
+),
+(
+ItemID: Stillsuit;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: AramidFibers;
+        Required: 2;
+    ),
+    (
+        ItemID: lead;
+        Required: 4;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CopperWire;
+        Required: 2;
+    );
+
+    LinkedItemIDs:;
+    Unlocks: ; 
+), 
+(
+ItemID: Rebreather;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: WiringKit;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 2;
+    ),
+    (
+        ItemID: FiberMesh;
+        Required: 4;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    ( 
+        ItemID: Board;
+        Required: 1;
+    );
+
+    LinkedItemIDs:;
+    Unlocks: ; 
+); 

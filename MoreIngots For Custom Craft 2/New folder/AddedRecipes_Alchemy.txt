@@ -1,0 +1,282 @@
+AddedRecipes:
+(
+    ItemID: Quartz;
+    AmountCrafted: 3;
+    Ingredients:
+    (
+        ItemID: PurpleFanSeed;
+        Required: 1;
+    ),
+    (
+        ItemID: CreepVinePiece;
+        Required: 1;
+    );
+    Path: Fabricator/Alchemy/Crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: ScrapMetal;
+    AmountCrafted: 2;
+    Ingredients:
+    (
+        ItemID: Titanium;
+        Required: 1;
+    ),
+    (
+        ItemID: AcidMushroomSpore ;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Lead;
+    AmountCrafted: 3;
+    Ingredients:
+    (
+        ItemID: Titanium;
+        Required:1;
+    ),
+    (
+        ItemID: Bluepalmseed;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Copper;
+    AmountCrafted: 3;
+    Ingredients:
+    (
+        ItemID: Titanium;
+        Required:1;
+    ),
+    (
+        ItemID: CreepVinePiece;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Salt;
+    AmountCrafted: 4;
+	Ingredients:
+    (
+        ItemID: AcidMushroomSpore;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleRattleSpore;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Gold;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: Copper;
+        Required:1;
+    ),
+    (
+        ItemID: CreepVineSeedCluster;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Sulphur;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: CrashPowder;
+        Required:2;
+    );
+    Path: Fabricator/Alchemy/Crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Silver;
+    AmountCrafted: 3;
+	Ingredients:
+    (
+        ItemID: Copper;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleBrainCoralPiece;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: CrashPowder;
+    AmountCrafted: 3;
+	Ingredients:
+    (
+        ItemID: CreepVinePiece;
+        Required:1;
+    ),
+    (
+        ItemID: AcidMushroomSpore;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Crystal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Diamond;
+    AmountCrafted: 1;
+	Ingredients:
+    (
+        ItemID: Quartz;
+        Required:1;
+    ),
+    (
+        ItemID: CreepVinePiece;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Crystal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Lithium;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: HangingFruit;
+        Required:1;
+    ),
+    (
+        ItemID: Titanium;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: AluminumOxide;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: Quartz;
+        Required:1;
+    ),
+    (
+        ItemID: BloodOil;
+        Required:1;
+    );
+	Path: Fabricator/Alchemy/Crystal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Magnetite;
+    AmountCrafted: 3;
+	Ingredients:
+    (
+        ItemID: Titanium;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleRattleSpore;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Energetic;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: UraniniteCrystal;
+    AmountCrafted: 4;
+	Ingredients:
+    (
+        ItemID: SnakeMushroomSpore;
+        Required:1;
+    ),
+    (
+        ItemID: CrashPowder;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Energetic;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Kyanite;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: Quartz;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleRattleSpore;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Energetic;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: PrecursorIonCrystal;
+    AmountCrafted: 1;
+	Ingredients:
+    (
+        ItemID: UraniniteCrystal;
+        Required:2;
+    ),
+    (
+        ItemID: Kyanite;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Energetic;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Nickel;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: Lead;
+        Required:1;
+    ),
+    (
+        ItemID: BulboTreePiece;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Metal;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: JeweledDiskPiece;
+    AmountCrafted: 2;
+	Ingredients:
+    (
+        ItemID: CreepVineseedCluster;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleBrainCoralPiece;
+        Required:1;
+    );
+	Path: Fabricator/Alchemy/Organic;
+	ForceUnlockAtStart: YES;
+),
+(
+    ItemID: StalkerTooth;
+    AmountCrafted: 4;
+	Ingredients:
+    (
+        ItemID: Quartz;
+        Required:1;
+    ),
+    (
+        ItemID: PurpleRattleSpore;
+        Required:1;
+    );
+    Path: Fabricator/Alchemy/Organic;
+	ForceUnlockAtStart:YES;
+);

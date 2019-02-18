@@ -1,0 +1,145 @@
+AliasRecipes: 
+(
+    ItemID: juice1;
+    FunctionalID: filteredwater;
+    DisplayName: "Bulbo Tree Juice";
+    Tooltip: "Water mixed with a Bulbo Tree Sample. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: BulboTreePiece;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice2;
+    FunctionalID: filteredwater;
+    DisplayName: "Lantern Fruit Juice";
+    Tooltip: "Water mixed with a Lantern Fruit. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: HangingFruit;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice3;
+    FunctionalID: filteredwater;
+    DisplayName: "Marblemelon Juice";
+    Tooltip: "Water mixed with a Marblemelon. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Melon;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice4;
+    FunctionalID: filteredwater;
+    DisplayName: "Creepvine Juice";
+    Tooltip: "Water mixed with a Creepvine Sample. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: CreepvinePiece;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice5;
+    FunctionalID: filteredwater;
+    DisplayName: "Gel Sack Juice";
+    Tooltip: "Water mixed with a Gel Sack. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: JellyPlant;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice6;
+    FunctionalID: filteredwater;
+    DisplayName: "Bulb Bush Juice";
+    Tooltip: "Water mixed with a Bulb Bush Sample. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: KooshChunk;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice7;
+    FunctionalID: filteredwater;
+    DisplayName: "Ming Plant Juice";
+    Tooltip: "Water mixed with a Ming Plant. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: PurpleVasePlant;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: juice8;
+    FunctionalID: filteredwater;
+    DisplayName: "Tiger Plant Juice";
+    Tooltip: "Water mixed with a Tiger Plant. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: SpikePlant;
+        Required: 1;
+    ),
+    ( 
+        ItemID: FilteredWater;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Juices;
+    ForceUnlockAtStart: YES;
+);

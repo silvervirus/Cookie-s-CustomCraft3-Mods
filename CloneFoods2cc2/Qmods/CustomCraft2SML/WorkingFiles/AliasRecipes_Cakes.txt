@@ -1,0 +1,145 @@
+AliasRecipes: 
+(
+    ItemID: cake1;
+   FunctionalID: nutrientblock; 
+   DisplayName: "Peeper Cake";
+    Tooltip: "Coral Tube Sample mixed with a Peeper. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Peeper;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake2;
+    FunctionalID: nutrientblock;
+    DisplayName: "Chinese Potato Cake";
+    Tooltip: "Coral Tube Sample mixed with a Chinese Potato. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: PurpleVegetable;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake3;
+    FunctionalID: nutrientblock;
+    DisplayName: "Bladderfish Cake";
+    Tooltip: "Coral Tube Sample mixed with a Bladderfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Bladderfish;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake4;
+    FunctionalID: nutrientblock;
+    DisplayName: "Boomerang Cake";
+    Tooltip: "Coral Tube Sample mixed with a Boomerang. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Boomerang;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake5;
+    FunctionalID: nutrientblock;
+    DisplayName: "Hoverfish Cake";
+    Tooltip: "Coral Tube Sample mixed with a Hoverfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Hoverfish;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake6;
+    FunctionalID: nutrientblock;
+    DisplayName: "Spadefish Cake";
+    Tooltip: "Coral Tube Sample mixed with a Spadefish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Spadefish;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake7;
+    FunctionalID: nutrientblock;
+    DisplayName: "Garryfish Cake";
+    Tooltip: "Coral Tube Sample mixed with a Garryfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: GarryFish;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: cake8;
+    FunctionalID: nutrientblock;
+    DisplayName: "Reginald Cake";
+    Tooltip: "Coral Tube Sample mixed with a Reginald. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Reginald;
+        Required: 1;
+    ),
+    ( 
+        ItemID: CoralChunk;
+        Required: 1;
+    );
+    Path: Fabricator/CloneFood2/Cakes;
+    ForceUnlockAtStart: YES;
+);

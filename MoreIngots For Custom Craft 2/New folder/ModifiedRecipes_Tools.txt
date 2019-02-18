@@ -1,0 +1,267 @@
+﻿# This is a sample file for modifying crafting recipes for in-game items #
+# Remember that this is only intended for use with items that already craftable in the base game #
+# This won't work with modded items #
+# If the item can't normally be crafted, use the AddedRecipes file instead #
+
+# You can use this file as a starting point. The text here is ready to use. #
+
+ModifiedRecipes:
+(
+    ItemID:Cyclops; # This is the Cyclops #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Bridge; Required:1; ),
+        ( ItemID:Hull; Required:1; ),
+        ( ItemID:Engine; Required:1; );
+        
+),
+
+(    
+   ItemID:Builder; # This is the in-game Building tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+),    
+(
+    ItemID:Flashlight; # This is the in-game Flashlight tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Titanium; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:Scanner; # This is the in-game scanner #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:Welder; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:2; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:FilteredWater; # this is so water is harder to make
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Bladderfish; Required:2; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Titanium; Required:1; );
+       
+),
+(
+    ItemID:DisinfectedWater; # This makes it so the water costs more #
+    AmountCrafted: 2;
+    Ingredients:
+        ( ItemID:Bleach; Required:2; ), 
+        ( ItemID:Bladderfish; Required:2; ),
+        ( ItemID:Titanium; Required:2; ); 
+),
+(
+    ItemID:PropulsionCannon; # This is the in-game Cannon tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:2; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; ),
+        ( ItemID:EnameledGlass; Required:1; );
+       
+),
+(
+    ItemID:StasisRifle; # This is the in-game StasisRifle tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Magnetite; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+
+
+(
+    ItemID:LithiumIonBattery; # This is the in-game Battery tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Battery; Required:2; ),
+        ( ItemID:CopperWire; Required:1; ),
+        ( ItemID:Lithium; Required:2; ),
+        ( ItemID:Copper; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+
+(
+    ItemID:HeatBlade; # This is the in-game HeatBlade tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Knife; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+
+(
+    ItemID:PlasteelTank; # This is the in-game tank tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:DoubleTank; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:HighCapacityTank; # This is the in-game tank tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:2; ),
+        ( ItemID:DoubleTank; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:1; ),
+        ( ItemID:Lithium; Required:6; );
+       
+),
+(
+    ItemID:UltraGlideFins; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Fins; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Titanium; Required:2; ),
+        ( ItemID:Lithium; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:SwimChargeFins; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:2; ),
+        ( ItemID:Polyaniline; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Fins; Required:1; );
+       
+),
+(
+    ItemID:RepulsionCannon; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:PropulsionCannon; Required:1; ),
+        ( ItemID:Battery; Required:1; ),
+        ( ItemID:Magnetite; Required:2; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:CyclopsHullModule3; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:1; ),
+        ( ItemID:CyclopsHullModule2; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:Kyanite; Required:6; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+
+(
+    ItemID:CyclopsHullModule2; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:CyclopsHullModule1; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:Nickel; Required:6; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+
+(
+    ItemID:VehicleHullModule2; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:VehicleHullModule1; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:VehicleHullModule3; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:VehicleHullModule2; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:AluminumOxide; Required:6; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:ExoHullModule2; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:ExoHullModule1; Required:1; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lithium; Required:4; ),
+        ( ItemID:Kyanite; Required:6; );
+       
+),
+(
+    ItemID:PowerGlide; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:PowerGlide; Required:1; ),
+        ( ItemID:Titanium; Required:5; ),
+        ( ItemID:Lithium; Required:2; ),
+        ( ItemID:WiringKit; Required:1; );
+       
+);

@@ -1,0 +1,10 @@
+# Author: PrimeSonic #
+# Requires companion file EquipmentSalvage_Recipes.txt #
+# Created for Custom Craft 2 #
+CustomCraftingTabs:
+(
+    TabID: RecycleBatTab;
+    DisplayName: "Recycling and Salvage";
+    SpriteItemID: TrashCans;
+    ParentTabPath: Fabricator/Resources;
+);

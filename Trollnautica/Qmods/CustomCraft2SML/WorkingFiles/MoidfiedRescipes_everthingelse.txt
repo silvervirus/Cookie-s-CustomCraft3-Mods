@@ -1,0 +1,259 @@
+ModifiedRecipes:
+(
+    ItemID:CyclopsHullModule1; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:1; ),
+        ( ItemID:EnameledGlass; Required:1; ),
+        ( ItemID:AluminumOxide; Required:6; ),
+        ( ItemID:Diamond; Required:1; ),
+        ( ItemID:Board; Required:1; );
+       
+),
+(
+    ItemID:CPowerUpgradeModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:CopperWire; Required:1; ),
+        ( ItemID:Benzene; Required:3; ),
+        ( ItemID:Polyaniline; Required:3; ),
+        ( ItemID:Diamond; Required:1; ),
+        ( ItemID:Board; Required:1; );
+       
+),
+(
+    ItemID:CyclopsFireSuppressionModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:1; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:AluminumOxide; Required:6; ),
+        ( ItemID:Sulphur; Required:4; ),
+        ( ItemID:Board; Required:1; );
+       
+),
+(
+    ItemID:CyclopsDecoyModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:3; ),
+        ( ItemID:Lithium; Required:4; ),
+        ( ItemID:Copper; Required:3; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Board; Required:1; );
+       
+),
+(
+    ItemID:CyclopsThermalReactorModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:3; ),
+        ( ItemID:WiringKit; Required:4; ),
+        ( ItemID:Polyaniline; Required:4; ),
+        ( ItemID:Kyanite; Required:6; ),
+        ( ItemID:Board; Required:1; );
+       
+),
+(
+    ItemID:SolarPanel; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:Quartz; Required:4; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Titanium; Required:4; ),
+        ( ItemID:Board; Required:2; );
+        
+       
+),
+(
+    ItemID:ThermalPlant; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Magnetite; Required:4; ),
+        ( ItemID:Board; Required:2; ),
+        ( ItemID:Aerogel; Required:3; );
+       
+),
+(
+    ItemID:PowerTransmitter; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Board; Required:1; ),
+        ( ItemID:Titanium; Required:2; ),
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:Gold; Required:2; );
+        
+       
+),
+(
+    ItemID:VehicleHullModule1; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:1; ),
+        ( ItemID:EnameledGlass; Required:1; );
+        
+       
+),
+(
+    ItemID:VehicleArmorPlating; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Diamond; Required:8; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:Lithium; Required:1; );
+        
+       
+),
+(
+    ItemID:VehiclePowerUpgradeModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:3; ),
+        ( ItemID:Polyaniline; Required:2; ),
+        ( ItemID:Lithium; Required:1; );
+        
+       
+),
+(
+    ItemID:VehicleStorageModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:3; ),
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:Lithium; Required:3; );
+        
+       
+),
+(
+    ItemID:SeamothSolarCharge; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:AdvancedWiringKit; Required:2; ),
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:EnameledGlass; Required:2; );
+        
+       
+),
+
+(
+    ItemID:SeamothTorpedoModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Aerogel; Required:2; ),
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:Lithium; Required:2; );
+        
+       
+),
+(
+    ItemID:SeamothSonarModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:CopperWire; Required:2; ),
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:Magnetite; Required:4; );
+        
+       
+),
+(
+    ItemID:ExosuitThermalReactorModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Polyaniline; Required:2; ),
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:Kyanite; Required:4; );
+        
+       
+),
+(
+    ItemID:ExoHullModule1; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:Nickel; Required:6; ),
+        ( ItemID:AluminumOxide; Required:4; );
+        
+       
+),
+(
+    ItemID:ExosuitJetUpgradeModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:WiringKit; Required:1; ),
+        ( ItemID:PlasteelIngot; Required:2; ),
+        ( ItemID:Nickel; Required:6; ),
+        ( ItemID:AluminumOxide; Required:4; );
+        
+       
+),
+(
+    ItemID:ExosuitGrapplingArmModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:AdvancedWiringKit; Required:1; ),
+        ( ItemID:Benzene; Required:2; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lithium; Required:4; );
+        
+       
+),
+(
+    ItemID:ExosuitPropulsionArmModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Magnetite; Required:4; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lithium; Required:2; );
+        
+       
+),
+(
+    ItemID:ExosuitDrillArmModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Diamond; Required:6; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lithium; Required:2; );
+        
+       
+),
+(
+    ItemID:ExosuitTorpedoArmModule; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lithium; Required:2; );
+        
+       
+);

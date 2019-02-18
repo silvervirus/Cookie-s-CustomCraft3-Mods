@@ -1,0 +1,47 @@
+﻿# This is a sample file for modifying inventory items with custom sizes #
+# Remember that this is only intended for use with items that already exist in the base game #
+# This won't work with modded items #
+
+# You can use this file as a starting point. The text here is ready to use. #
+
+CustomSizes: 
+(
+    ItemID:Bridge; 
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Hull;
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Engine;
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Shullr;
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Shulll;
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Sengine;
+    Width: 3;
+    Height: 1;
+),
+(
+    ItemID:Phull;
+    Width: 3;
+    Height: 3;
+),
+(
+    ItemID:Claw;
+    Width: 3;
+    Height: 2;
+);

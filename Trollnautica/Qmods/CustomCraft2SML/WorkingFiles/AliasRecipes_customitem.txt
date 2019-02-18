@@ -1,0 +1,298 @@
+# This is a sample file for adding new crafting recipes for custom items #
+# This recipe format is intended for use with items that do not exist in the base game #
+
+# There are two ways to associate a sprite with the new items - first by having #
+#     a png file in the Assets folder that matches the ItemID (eg - GallonWater.png) #
+# If there is no PNG file found, then the sprite of first LinkedItemID will be used #
+
+# There are two common uses for this recipe #
+#   1.  To create a custom item and produce that item. #
+#       in this case - you want to add a new sprite asset #
+#       set the AmountCrafted >= 1 and fill in the remaining items #
+#   2.  The second common use is to create ano item that already has a recipe in-game #
+#       (see WaterFromGallon below).  The recipe cannot directly output DisinfectedWater #
+#       as there is already a recipe for that (salt + bleach).  However, we can accomplish #
+#       this by making up a new ItemID, then making the recipe produce 0 of these #
+#       But, we can also have the recipe produce DisinfectedWater via the LinkedItemIDs #
+
+# The format is similar to AddedRecipe - but with a few new fields #
+#       DisplayName = the display name (if using the fabricator this is the larger/bold text) #
+#       Tooltip     = the descriptive text below the DisplayName in the fabricator menu #
+
+# You can use this file as a starting point. The examples here are ready to use. #
+
+AliasRecipes: 
+
+(
+    ItemID: Reefbackmilk;
+    DisplayName: "Reefbackmilk";
+    Tooltip: "Ever milked a reefback? well now you have enjoy ";
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: reefbackegg;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 3;
+    );
+    Path: Fabricator/Survival/Ingredients;
+),
+(
+    ItemID: Bread;
+    DisplayName: "Bread";
+    Tooltip: "Bread Makes you fat! ";
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Breaddough;
+        Required: 1;
+    );
+    
+    Path: Fabricator/Survival/Ingredients;
+),
+(
+    ItemID: Breaddough;
+    DisplayName: "Breaddough";
+    Tooltip: "i wonder if this bread once cooked will taste good. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: ReefbackMilk;
+        Required: 1;
+    ),
+   (
+        ItemID: FilteredWater;
+        Required: 1;
+    ),
+    (
+        ItemID: StalkerTooth;
+        Required: 3;
+    );
+    Path: Fabricator/Survival/Ingredients;
+),
+(
+    ItemID: Board;
+    DisplayName: "circuit Board";
+    Tooltip: "Silcon Board used for crafting control boards for different tech. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: silicone;
+        Required: 2;
+    ),
+    (
+        ItemID: Solder;
+        Required: 1;
+    ),
+    (
+        ItemID: Copper;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Solder;
+    DisplayName: "Silver Solder";
+    Tooltip: "Solder made from Silver used to connect Circuits and chips. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: Silver;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Bridge;
+    DisplayName: "Cyclops Bridge";
+    Tooltip: "The Cyclop's bridge was a great wonder. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 2;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    ),
+    (
+        ItemID: Aerogel;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 2;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 2;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Hull;
+    DisplayName: "Cyclops Hull";
+    Tooltip: "The Cyclop's Hull is very Strong. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 4;
+    ),
+    (
+        ItemID: Diamond;
+        Required: 4;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Engine;
+    DisplayName: "Cyclops Engine";
+    Tooltip: "The Cyclop's Engine was a very powerful. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 3;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 3;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Shullr;
+    DisplayName: "Seamoth Hull Right";
+    Tooltip: "The Seamoth's hull is light. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Shulll;
+    DisplayName: "Seamoth Hull Left";
+    Tooltip: "Seamoth's Hull is light. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Sengine;
+    DisplayName: "Seamoth Engine";
+    Tooltip: "The Seamoth's Engine. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 1;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: Titanium;
+        Required: 3;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+);
+(
+    ItemID: Phull;
+    DisplayName: "Prawn Suit hull";
+    Tooltip: "Prawn Suit hull was made to withstand tons of pressure. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 3;
+    ),
+    (
+        ItemID: EnameledGlass;
+        Required: 2;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+),
+(
+    ItemID: Claw;
+    DisplayName: "Prawn Suit Claw";
+    Tooltip: "The Prawn Suit's claws are very strong. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Board;
+        Required: 2;
+    ),
+    (
+        ItemID: ComputerChip;
+        Required: 1;
+    ),
+    (
+        ItemID: PlasteelIngot;
+        Required: 3;
+    ),
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/Electronics/CraftingTech;
+);

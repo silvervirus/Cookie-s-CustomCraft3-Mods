@@ -1,0 +1,89 @@
+# Author: PrimeSonic #
+# Requires companion file EquipmentSalvage_Tabs.txt #
+# Additional icon assets are optional #
+# Created for Custom Craft 2 #
+AliasRecipes:
+(
+    ItemID: LeadSalvage;
+    DisplayName: "Salavage Lead";
+    Tooltip: "Recover the useful lead from a radiation suit no longer in use";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lead,Lead;
+    Ingredients: 
+    (
+        ItemID: RadiationSuit;
+        Required: 1;
+    ),
+    (
+        ItemID: RadiationHelmet;
+        Required: 1;
+    ),
+    (
+        ItemID: RadiationGloves;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/RecycleBatTab;
+),
+(
+    ItemID: UnpackedMetal;
+    DisplayName: "Unpacked Titanium";
+    Tooltip: "Recover the useful lead from a radiation suit no longer in use";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lead,Lead;
+    Ingredients: 
+    (
+        ItemID: RadiationSuit;
+        Required: 1;
+    ),
+    (
+        ItemID: RadiationHelmet;
+        Required: 1;
+    ),
+    (
+        ItemID: RadiationGloves;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/RecycleBatTab;
+),
+(
+    ItemID: CopperSalvage;
+    DisplayName: "Salvage Copper";
+    Tooltip: "Recover the precious copper from unneeded power cells";
+    AmountCrafted: 0;
+    LinkedItemIDs: Copper,Copper;
+    Ingredients: 
+    (
+        ItemID: PowerCell;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/RecycleBatTab;
+),
+
+(
+    ItemID: IonCubeSalvage;
+    DisplayName: "Salavage Ion Cubes";
+    Tooltip: "Recover the precious ion cubes from unneeded ion power cells";
+    AmountCrafted: 0;
+    LinkedItemIDs: PrecursorIonCrystal,PrecursorIonCrystal;
+    Ingredients: 
+    (
+        ItemID: PrecursorIonPowerCell;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/RecycleBatTab;
+),
+(
+    ItemID: DiamondSalvage;
+    DisplayName: "Salavage Diamonds";
+    Tooltip: "Recover diamonds from retired laser cutters. Don't forget to remove the batteries first.";
+    # There is literaly no way for the crafting system to detect if a tool still has a battery inside it or not. #
+    # If you want to keep that battery, you have to remember to remove it from the Laser Cutter before recycling it. #
+    AmountCrafted: 0;
+    LinkedItemIDs: Diamond,Diamond;
+    Ingredients: 
+    (
+        ItemID: LaserCutter;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/RecycleBatTab;
+);

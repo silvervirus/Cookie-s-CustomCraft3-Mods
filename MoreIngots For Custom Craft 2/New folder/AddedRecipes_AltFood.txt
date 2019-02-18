@@ -1,0 +1,37 @@
+AddedRecipes: 
+(
+    ItemID: NutrientBlock;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: CuredReginald;
+        Required: 2;
+    ),
+    (
+        ItemID: PurpleVegetable;
+        Required: 2;
+    ),
+    (
+        ItemID: HangingFruit;
+        Required: 2;
+    );
+    Path: Fabricator/Survival/CuredFood;
+),
+(
+    ItemID: BigFilteredWater;
+    AmountCrafted: 1;
+    Ingredients: 
+    (
+        ItemID: FilteredWater;
+        Required: 2;
+    ),
+(
+        ItemID: Bleach;
+        Required: 2;
+    ),
+(
+        ItemID: Titanium;
+        Required: 2;
+    );
+    Path: Fabricator/Survival/Water;
+);

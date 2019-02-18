@@ -1,0 +1,31 @@
+# These are samples for adding your own custom crafting tab nodes to the game's existing fabricators. #
+# After you add new tabs here, you can use them to better organize your AddedRecipes. #
+# If you want to add your new tab inside an existing one, you will need internal name of that tab. #
+# You can find all the internal names of all tabs to all fabricators in the README file. #
+
+# The Custom Tabs update comes with some new additions to what you can do with EasyMarkup, so pay close attention to the samples here. #
+
+CustomCraftingTabs: 
+
+
+(
+    TabID: CloneFood2;  # This will be the internal name for this new tab #
+    DisplayName: "CloneFood2";  # This is the name displayed in-game for your tab. If you want this name to have spaces, you will need to wrap it in quotes as shown. #
+    SpriteItemID: nutrientblock; # This is the ItemID for the in-game item that will be used as the sprite for your custom tab. #    
+    ParentTabPath: Fabricator;
+    # This tab will be added to the Personal tab of the Fabricator crafting tree. For a full list of available fabricators, check the README file. #
+),
+(
+    TabID: Cakes;
+    DisplayName: "Cakes";
+    SpriteItemID: nutrientblock;
+    ParentTabPath: Fabricator/CloneFood2; 
+    # Remember that icons get smaller as the crafting tree goes deeper. #
+),
+(
+    TabID: Juices;
+    DisplayName: "Juices";
+    SpriteItemID: filteredwater;
+    ParentTabPath: Fabricator/CloneFood2; 
+    # Remember that icons get smaller as the crafting tree goes deeper. #
+);

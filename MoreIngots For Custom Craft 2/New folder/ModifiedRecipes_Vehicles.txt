@@ -1,0 +1,63 @@
+
+ModifiedRecipes:
+(
+    ItemID:Seamoth; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Shullr; Required:1; ),
+        ( ItemID:Shulll; Required:1; ),
+        ( ItemID:Sengine; Required:2; );
+       
+       
+),
+(
+    ItemID:Exosuit; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Claw; Required:2; ),
+        ( ItemID:Phull; Required:1; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Diamond; Required:4; );
+        
+       
+),
+
+(
+    ItemID:Knife; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:1; ),
+        ( ItemID:StalkerTooth; Required:1; ),
+        ( ItemID:Silicone; Required:1; ),
+        ( ItemID:Glass; Required:1; );
+       
+),
+(
+    ItemID:Silicone; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:CreepvineSeedCluster; Required:2; );
+       
+),
+(
+    ItemID:FiberMesh; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:CreepvinePiece; Required:4; );
+       
+),
+(
+    ItemID:Titanium; # This is the in-game repair tool #
+    AmountCrafted: 2;
+    Ingredients: 
+        ( ItemID:ScrapMetal; Required:1; );
+       
+),
+(
+    ItemID:Glass; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Quartz; Required:4; );       
+);
+
+
