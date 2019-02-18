@@ -1,0 +1,248 @@
+
+AliasRecipes:
+(
+    ItemID: Leadunpacked;
+    DisplayName: "unpacked Lead";
+    Tooltip: "unpacked Lead";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lead,Lead,Lead,Lead,Lead,Lead,Lead,Lead,Lead,Lead;
+    Ingredients: 
+    (
+        ItemID: Leadingot;
+        Required: 1;
+    );
+    
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: UnpackedTitanium;
+    DisplayName: "Unpacked Titanium";
+    Tooltip: "Unpacked Titanium";
+    AmountCrafted: 0;
+    LinkedItemIDs: Titanium,Titanium,Titanium,Titanium,Titanium,Titanium,Titanium,Titanium,Titanium;
+    Ingredients: 
+    (
+        ItemID: Titaniumingot;
+        Required: 1;
+    );
+   
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: UnpackedSilver;
+    DisplayName: "Unpacked Silver";
+    Tooltip: "Unpacked Silver";
+    AmountCrafted: 0;
+    LinkedItemIDs: Silver,Silver,Silver,Silver,Silver,Silver,Silver,Silver,Silver;
+    Ingredients: 
+    (
+        ItemID: Silveringot;
+        Required: 1;
+    );
+   
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: CompressedSulphur1;
+    DisplayName: "Unpacked crashpowder";
+    Tooltip: "Unpacked crashpowder";
+    AmountCrafted: 0;
+    LinkedItemIDs: crashpowder,crashpowder,crashpowder,crashpowder,crashpowder,crashpowder,crashpowder,crashpowder,crashpowder;
+    Ingredients: 
+    (
+        ItemID: CompressedSulphur1;
+        Required: 1;
+    );
+   
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: CompressedSulphur2;
+    DisplayName: "Unpacked Sulphur";
+    Tooltip: "Unpacked Sulphur";
+    AmountCrafted: 0;
+    LinkedItemIDs: sulphur,sulphur,sulphur,sulphur,sulphur,sulphur,sulphur,sulphur,sulphur;
+    Ingredients: 
+    (
+        ItemID: CompressedSulphur2;
+        Required: 1;
+    );
+   
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: UnpackedNickel;
+    DisplayName: "Unpacked Nickel";
+    Tooltip: "Unpacked Nickel";
+    AmountCrafted: 0;
+    LinkedItemIDs: Nickel,Nickel,Nickel,Nickel,Nickel,Nickel,Nickel,Nickel,Nickel;
+    Ingredients: 
+    (
+        ItemID: Nickelingot;
+        Required: 1;
+    );
+   
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Copperunpacked;
+    DisplayName: "unpacked Copper";
+    Tooltip: "unpacked Copper";
+    AmountCrafted: 0;
+    LinkedItemIDs: Copper,Copper,Copper,Copper,Copper,Copper,Copper,Copper,Copper,Copper;
+    Ingredients: 
+    (
+        ItemID: Copperingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Magnetiteunpacked;
+    DisplayName: "unpacked Magnetite";
+    Tooltip: "unpacked Magnetite";
+    AmountCrafted: 0;
+    LinkedItemIDs: Magnetite,Magnetite,Magnetite ,Magnetite,Magnetite,Magnetite,Magnetite,Magnetite,Magnetite,Magnetite;
+    Ingredients: 
+    (
+        ItemID: Magnetiteingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+
+(
+    ItemID: Lithiumunpacked;
+    DisplayName: "unpacked Lithium ";
+    Tooltip: "unpacked Lithium";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lithium ,Lithium,Lithium ,Lithium ,Lithium ,Lithium ,Lithium ,Lithium ,Lithium ,Lithium;
+    Ingredients: 
+    (
+        ItemID: Lithiumingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+
+(
+    ItemID: Rubyunpacked;
+    DisplayName: "Salavage Ruby ";
+    Tooltip: "Salavage Ruby";
+    AmountCrafted: 0;
+    LinkedItemIDs: aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide ,aluminumoxide;
+    Ingredients: 
+    (
+        ItemID: Rubyingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Saltunpacked;
+    DisplayName: "unpacked Salt";
+    Tooltip: "unpacked Salt";
+    AmountCrafted: 0;
+    LinkedItemIDs: salt,salt, salt,salt,salt,salt,salt,salt,salt,salt;
+    Ingredients: 
+    (
+        ItemID: Saltlick;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Goldunpacked;
+    DisplayName: "unpacked Gold ";
+    Tooltip: "unpacked Gold";
+    AmountCrafted: 0;
+    LinkedItemIDs: Gold,Gold,Gold,Gold,Gold,Gold,Gold,Gold,Gold,Gold;
+    Ingredients: 
+    (
+        ItemID: Goldingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Plasteelunpacked;
+    DisplayName: "unpacked Plasteel ";
+    Tooltip: "unpacked Plasteel";
+    AmountCrafted: 0;
+    LinkedItemIDs: plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot,plasteelingot;
+    Ingredients: 
+    (
+        ItemID: Plasteelpacked;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Kyaniteunpacked;
+    DisplayName: "unpacked Kyanite ";
+    Tooltip: "unpacked Kyanite";
+    AmountCrafted: 0;
+    LinkedItemIDs: Kyanite,Kyanite,Kyanite,Kyanite,Kyanite,Kyanite,Kyanite,Kyanite,Kyanite,Kyanite;
+    Ingredients: 
+    (
+        ItemID: Kyaniteingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Uraniniteunpacked;
+    DisplayName: "unpacked Uraninite ";
+    Tooltip: "unpacked Uraninite";
+    AmountCrafted: 0;
+    LinkedItemIDs: uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal,uraninitecrystal;
+    Ingredients: 
+    (
+        ItemID: Uraniniteingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Quartzunpacked;
+    DisplayName: "unpacked Quartz ";
+    Tooltip: "unpacked Quartz";
+    AmountCrafted: 0;
+    LinkedItemIDs: Quartz,Quartz,Quartz,Quartz,Quartz,Quartz,Quartz,Quartz,Quartz,Quartz;
+    Ingredients: 
+    (
+        ItemID: Quartzingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Diamondunpacked;
+    DisplayName: "unpacked Diamonds";
+    Tooltip: "unpacked Diamonds.";
+    AmountCrafted: 0;
+    LinkedItemIDs: Diamond,Diamond,Diamond,Diamond,Diamond,Diamond,Diamond,Diamond,Diamond,Diamond;
+    Ingredients: 
+    (
+        ItemID: Diamondingot;
+        Required: 1;
+    );
+    Path: Fabricator/Resources/MoreIngots/unpacked;
+    ForceUnlockAtStart: YES;
+);

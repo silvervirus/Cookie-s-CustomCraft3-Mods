@@ -1,0 +1,266 @@
+AliasRecipes: 
+
+(
+    ItemID: Scrapmold;
+    DisplayName: "Smelting mold";
+    Tooltip: "Smelting Mold. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Titanium;
+        Required: 2;
+    );
+    Path: Fabricator/MoreIngots/packed/Smelting;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: ScraptoIngot;
+    DisplayName: "Smelted Titanium";
+    Tooltip: "Smelted Titanium. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: ScrapMetal;
+        Required: 2;
+    ),
+    ( 
+        ItemID: Scrapmold;
+        Required: 1;
+    );
+    Path: Fabricator/MoreIngots/packed/Smelting;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Copperingot;
+    DisplayName: "Packed Copper";
+    Tooltip: "Packed Copper. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Copper;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Coin;
+    DisplayName: "Alterra Coin";
+    Tooltip: "Alterra Coin. ";
+    AmountCrafted: 5;
+    Ingredients: 
+    ( 
+        ItemID: Copper;
+        Required: 5;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Nickelingot;
+    DisplayName: "Packed Nickel";
+    Tooltip: "Packed Nickel. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Nickel;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Silveringot;
+    DisplayName: "Packed Silver";
+    Tooltip: "Packed Silver. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Silver;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Lithiumingot;
+    DisplayName: "Packed Lithium";
+    Tooltip: "Packed Lithium. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Lithium;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Goldingot;
+    DisplayName: "Packed Gold";
+    Tooltip: "Packed Gold. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Gold;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Leadingot;
+    DisplayName: "Packed Lead";
+    Tooltip: "Packed Lead. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Lead;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Quartzingot;
+    DisplayName: "Packed Quartz";
+    Tooltip: "Packed Quartz. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Quartz;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Rubyingot;
+    DisplayName: "Packed Ruby";
+    Tooltip: "Packed Ruby. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: aluminumoxide;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Saltlick;
+    DisplayName: "Packed Salt";
+    Tooltip: "Packed Salt. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: salt;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Plasteelpacked;
+    DisplayName: "Packed Plasteel";
+    Tooltip: "Packed Plasteel. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: plasteelingot;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/metallic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Kyaniteingot;
+    DisplayName: "Packed Kyanite";
+    Tooltip: "Packed Kyanite. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Kyanite;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/crystal;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Diamondingot;
+    DisplayName: "Packed Diamond";
+    Tooltip: "Packed Diamond. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Diamond;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/crystal;
+     ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Magnetiteingot;
+    DisplayName: "Packed Magnetite";
+    Tooltip: "Packed Magnetite. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: magnetite;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/energetic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: batterypack;
+    DisplayName: "Packed Battery";
+    Tooltip: "Packed Battery. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: battery;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/energetic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: powercellpack;
+    DisplayName: "Packed Power Cell";
+    Tooltip: "Packed Power Cell. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: powercell;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/energetic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Uraniniteingot;
+    DisplayName: "Packed Uraninite";
+    Tooltip: "Packed Uraninite";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: uraninitecrystal;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/energetic;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: Ioningot;
+    DisplayName: "Packed Ion Cubes";
+    Tooltip: "Packed Ion Cubes";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: precursorioncrystal;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/energetic;
+    ForceUnlockAtStart: YES;
+);

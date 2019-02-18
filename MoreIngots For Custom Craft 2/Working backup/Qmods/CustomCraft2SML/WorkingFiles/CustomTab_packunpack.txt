@@ -1,0 +1,29 @@
+# These are samples for adding your own custom crafting tab nodes to the game's existing fabricators. #
+# After you add new tabs here, you can use them to better organize your AddedRecipes. #
+# If you want to add your new tab inside an existing one, you will need internal name of that tab. #
+# You can find all the internal names of all tabs to all fabricators in the README file. #
+
+# The Custom Tabs update comes with some new additions to what you can do with EasyMarkup, so pay close attention to the samples here. #
+
+CustomCraftingTabs: 
+(
+    TabID: MoreIngots;
+    DisplayName: "MoreIngots";
+    SpriteItemID: powercellcharger;
+    ParentTabPath: Fabricator/Resources; 
+    # Remember that icons get smaller as the crafting tree goes deeper. #
+),
+(
+    TabID: PackedItems;
+    DisplayName: "Packing";
+    SpriteItemID: Plasteel Ingot;
+    ParentTabPath: Fabricator/Resources/MoreIngots; 
+    # Remember that icons get smaller as the crafting tree goes deeper. #
+),
+(
+    TabID: unpacked;
+    DisplayName: "Unpacking";
+    SpriteItemID: Titanium;
+    ParentTabPath: Fabricator/Resources/MoreIngots; 
+    # Remember that icons get smaller as the crafting tree goes deeper. #
+);

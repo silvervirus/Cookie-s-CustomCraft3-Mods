@@ -1,0 +1,170 @@
+AliasRecipes: 
+(
+    ItemID: PeeperPacked;
+    DisplayName: "Dehydration Peeper";
+    Tooltip: "Dehydration Peeper. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Peeper;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: GarryfishPacked;
+    DisplayName: "Dehydration Garryfish";
+    Tooltip: "Dehydration Garryfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Garryfish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: HoopfishPacked;
+    DisplayName: "Dehydration Hoopfish";
+    Tooltip: "Dehydration Hoopfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Hoopfish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: HolefishPacked;
+    DisplayName: "Dehydration Holefish ";
+    Tooltip: "Dehydration Holefish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Holefish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: HoverfishPacked;
+    DisplayName: "Dehydration Hoverfish";
+    Tooltip: "Dehydration Hoverfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Hoverfish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: SpadefishPacked;
+    DisplayName: "Dehydration Spadefish";
+    Tooltip: "Dehydration Spadefish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Spadefish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: BoomerangPacked;
+    DisplayName: "Dehydration Boomerang";
+    Tooltip: "Dehydration Boomerang. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Boomerang;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: EyeyePacked;
+    DisplayName: "Dehydration Eyeye";
+    Tooltip: "Dehydration Eyeye. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Eyeye;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: ReginaldPacked;
+    DisplayName: "Dehydration Reginald";
+    Tooltip: "Dehydration Reginald. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Reginald;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: SpinefishPacked;
+    DisplayName: "Dehydration Spinefish";
+    Tooltip: "Dehydration Spinefish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Spinefish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: LavaboomerangPacked;
+    DisplayName: "Dehydration Lavaboomerang";
+    Tooltip: "Dehydration Lavaboomerang. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Lavaboomerang;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: LavaeyeyePacked;
+    DisplayName: "Dehydration Lavaeyeye";
+    Tooltip: "Dehydration Lavaeyeye. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Lavaeyeye;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+),
+(
+    ItemID: BladderfishPacked;
+    DisplayName: "Dehydration Bladderfish";
+    Tooltip: "Dehydration Bladderfish. ";
+    AmountCrafted: 1;
+    Ingredients: 
+    ( 
+        ItemID: Bladderfish;
+        Required: 10;
+    );
+    Path: Fabricator/MoreIngots/packed/food;
+    ForceUnlockAtStart: YES;
+);

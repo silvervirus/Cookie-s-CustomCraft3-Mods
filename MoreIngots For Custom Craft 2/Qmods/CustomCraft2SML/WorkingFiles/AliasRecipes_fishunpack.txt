@@ -1,0 +1,183 @@
+AliasRecipes:
+(
+    ItemID: PeeperUnpacked;
+    DisplayName: "Rehydration Peeper";
+    Tooltip: "Rehydration Peeper";
+    AmountCrafted: 0;
+    LinkedItemIDs: Peeper,Peeper,Peeper,Peeper,Peeper,Peeper,Peeper,Peeper,Peeper,Peeper;
+    Ingredients: 
+    (
+        ItemID: PeeperPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: GarryfishUnpacked;
+    DisplayName: "Rehydration Garryfish";
+    Tooltip: "Rehydration Garryfish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Garryfish,Garryfish,Garryfish,Garryfish,Garryfish,Garryfish,Garryfish,Garryfish,Garryfish,Garryfish;
+    Ingredients: 
+    (
+        ItemID: GarryfishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: HoopfishUnpacked;
+    DisplayName: "Rehydration Hoopfish";
+    Tooltip: "Rehydration Hoopfish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish,Hoopfish;
+    Ingredients: 
+    (
+        ItemID: HoopfishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: HoverfishUnpacked;
+    DisplayName: "Rehydration Hoverfish";
+    Tooltip: "Rehydration Hoverfish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish,Hoverfish;
+    Ingredients: 
+    (
+        ItemID: HoverfishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: HolefishUnpacked;
+    DisplayName: "Rehydration Holefish";
+    Tooltip: "Rehydration Holefish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Holefish,Holefish,Holefish,Holefish,Holefish,Holefish,Holefish,Holefish,Holefish,Holefish;
+    Ingredients: 
+    (
+        ItemID: HolefishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: SpinefishUnpacked;
+    DisplayName: "Rehydration Spinefish";
+    Tooltip: "Rehydration Spinefish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Spinefish,Spinefish,Spinefish,Spinefish,Spinefish,Spinefish,Spinefish,Spinefish,Spinefish,Spinefish;
+    Ingredients: 
+    (
+        ItemID: SpinefishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: SpadefishUnpacked;
+    DisplayName: "Rehydration Spadefish";
+    Tooltip: "Rehydration Spadefish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Spadefish,Spadefish,Spadefish,Spadefish,Spadefish,Spadefish,Spadefish,Spadefish,Spadefish,Spadefish;
+    Ingredients: 
+    (
+        ItemID: SpadefishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: BoomerangUnpacked;
+    DisplayName: "Rehydration Boomerang";
+    Tooltip: "Rehydration Boomerang";
+    AmountCrafted: 0;
+    LinkedItemIDs: Boomerang,Boomerang,Boomerang,Boomerang,Boomerang,Boomerang,Boomerang,Boomerang,Boomerang,Boomerang;
+    Ingredients: 
+    (
+        ItemID: BoomerangPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: EyeyeUnpacked;
+    DisplayName: "Rehydration Eyeye";
+    Tooltip: "Rehydration Eyeye";
+    AmountCrafted: 0;
+    LinkedItemIDs: Eyeye,Eyeye,Eyeye,Eyeye,Eyeye,Eyeye,Eyeye,Eyeye,Eyeye,Eyeye;
+    Ingredients: 
+    (
+        ItemID: EyeyePacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: ReginaldUnpacked;
+    DisplayName: "Rehydration Reginald";
+    Tooltip: "Rehydration Reginald";
+    AmountCrafted: 0;
+    LinkedItemIDs: Reginald,Reginald,Reginald,Reginald,Reginald,Reginald,Reginald,Reginald,Reginald,Reginald;
+    Ingredients: 
+    (
+        ItemID: ReginaldPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: LavaboomerangUnpacked;
+    DisplayName: "Rehydration Lavaboomerang";
+    Tooltip: "Rehydration Lavaboomerang";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang,Lavaboomerang;
+    Ingredients: 
+    (
+        ItemID: LavaboomerangPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: LavaeyeyeUnpacked;
+    DisplayName: "Rehydration Lavaeyeye";
+    Tooltip: "Rehydration Lavaeyeye";
+    AmountCrafted: 0;
+    LinkedItemIDs: Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye,Lavaeyeye;
+    Ingredients: 
+    (
+        ItemID: LavaeyeyePacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+),
+(
+    ItemID: BladderfishUnpacked;
+    DisplayName: "Rehydration Bladderfish";
+    Tooltip: "Rehydration Bladderfish";
+    AmountCrafted: 0;
+    LinkedItemIDs: Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish,Bladderfish;
+    Ingredients: 
+    (
+        ItemID: BladderfishPacked;
+        Required: 1;
+    );
+    
+    Path: Fabricator/MoreIngots/unpacked/foodu;
+);

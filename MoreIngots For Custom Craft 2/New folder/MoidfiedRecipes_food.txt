@@ -1,0 +1,248 @@
+ModifiedRecipes:
+(
+    ItemID:CookedHoleFish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:HoleFish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedPeeper; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Peeper; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+        
+       
+),
+(
+    ItemID:CookedBladderfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Bladderfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedGarryFish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:GarryFish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedHoverfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Hoverfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedReginald; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Reginald; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedSpadefish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+       ( ItemID:Spadefish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedBoomerang; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Boomerang; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedLavaBoomerang; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:LavaBoomerang; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedEyeye; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Eyeye; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedLavaEyeye; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:LavaEyeye; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedOculus; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Oculus; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedHoopfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Hoopfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+(
+    ItemID:CookedSpinefish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Spinefish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:Peeper; Required:1; );
+       
+),
+
+(
+    ItemID:CuredHoleFish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:HoleFish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredPeeper; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Peeper; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredBladderfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Bladderfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredGarryFish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:GarryFish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredHoverfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Hoverfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredSpadefish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Spadefish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredBoomerang; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Boomerang; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredLavaBoomerang; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:LavaBoomerang; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredEyeye; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Eyeye; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredLavaEyeye; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:LavaEyeye; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredOculus; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Oculus; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredHoopfish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Hoopfish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+),
+(
+    ItemID:CuredSpinefish; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Spinefish; Required:1; ),
+        ( ItemID:Salt; Required:1; ),
+        ( ItemID:CrashPowder; Required:1; );
+       
+);
+
+

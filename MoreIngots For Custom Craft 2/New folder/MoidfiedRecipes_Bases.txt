@@ -1,0 +1,174 @@
+ModifiedRecipes:
+
+(
+    ItemID:RocketBase; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:3; ),
+        ( ItemID:PlasteelIngot; Required:6; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Diamond; Required:4; ),
+        ( ItemID:Lead; Required:3; );
+       
+),
+(
+    ItemID:BaseRoom; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:15; );
+        
+       
+),
+(
+    ItemID:BaseMapRoom; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:15; ),
+        ( ItemID:Copper; Required:5; ),
+        ( ItemID:Board; Required:4; ),
+        ( ItemID:JeweledDiskPiece; Required:2; );
+        
+       
+),
+(
+    ItemID:BaseMoonpool; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:15; ),
+        ( ItemID:Lubricant; Required:3; ),
+        ( ItemID:Gold; Required:6; ),
+        ( ItemID:Board; Required:4; );
+        
+       
+),
+(
+    ItemID:BaseObservatory; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:6; ),
+        ( ItemID:Lubricant; Required:3; ),
+        ( ItemID:EnameledGlass; Required:6; ),
+        ( ItemID:Lead; Required:4; );
+        
+       
+),
+(
+    ItemID:BaseFoundation; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:10; ),
+        ( ItemID:Lead; Required:6; );
+        
+       
+),
+(
+    ItemID:BaseCorridorI; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:10; );
+       
+        
+       
+),
+(
+    ItemID:BaseCorridorL; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:10; );
+    
+        
+       
+),
+(
+    ItemID:BaseCorridorT; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:10; );
+    
+        
+       
+),
+(
+    ItemID:BaseCorridorX; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Titanium; Required:10; );
+    
+        
+       
+),
+(
+    ItemID:BaseCorridorGlassI; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Glass; Required:10; );
+    
+        
+       
+),
+(
+    ItemID:BaseCorridorGlassL; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:Glass; Required:10; );
+    
+        
+       
+),
+
+(
+    ItemID:RocketBaseLadder; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:3; ),
+        ( ItemID:PlasteelIngot; Required:6; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Diamond; Required:4; ),
+        ( ItemID:Board; Required:3; );
+       
+),
+(
+    ItemID:RocketStage1; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:3; ),
+        ( ItemID:PlasteelIngot; Required:6; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Nickel; Required:4; ),
+        ( ItemID:Diamond; Required:4; ),
+        ( ItemID:Board; Required:3; );
+       
+),
+(
+    ItemID:RocketStage2; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PrecursorIonPowerCell; Required:3; ),
+        ( ItemID:PlasteelIngot; Required:6; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Kyanite; Required:4; ),
+        ( ItemID:Sulphur; Required:4; ),
+        ( ItemID:Board; Required:3; );
+       
+),
+(
+    ItemID:RocketStage3; # This is the in-game repair tool #
+    AmountCrafted: 1;
+    Ingredients: 
+        ( ItemID:ComputerChip; Required:1; ),
+        ( ItemID:PowerCell; Required:3; ),
+        ( ItemID:PlasteelIngot; Required:6; ),
+        ( ItemID:EnameledGlass; Required:3; ),
+        ( ItemID:Aerogel; Required:4; ),
+        ( ItemID:Diamond; Required:4; ),
+        ( ItemID:CyclopsShieldModule; Required:4; ),
+        ( ItemID:Board; Required:3; );
+       
+);
