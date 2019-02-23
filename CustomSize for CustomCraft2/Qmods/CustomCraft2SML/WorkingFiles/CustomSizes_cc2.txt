@@ -1,0 +1,3874 @@
+CustomSizes:
+(
+  ItemID:Accumulator; 
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AcidMushroom;
+     Width: 1;
+    Height: 1;
+),
+(
+ ItemID:AcidMushroomSpore;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AcidOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AdvancedWiringKit;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Aerogel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AirBladder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AluminumOxide;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AminoAcids;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AnalysisTreeOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Aquarium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AquariumBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AquariumFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:AramidFibers;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ArcadeGorgetoy;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Audiolog;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BallClusters;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BarnacleSuckers;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BarTable;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BasaltChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseBioReactor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseBioReactorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseBulkhead;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseBulkheadBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseBulkheadFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseConnector;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorGlass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorGlassI;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorGlassL;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorI;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorL;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorT;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseCorridorX;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseDoor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseFiltrationMachine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseFiltrationMachineFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseFoundation;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseHatch;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseLadder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseMapRoom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseMapRoomBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseMapRoomFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseMoonpool;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseNuclearReactor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseNuclearReactorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseObservatory;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseObservatoryBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseObservatoryFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BasePipeConnector;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BasePlanter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BasePlanterBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseReinforcement;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseRoom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseRoomBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseRoomFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseUpgradeConsole;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseUpgradeConsoleBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseUpgradeConsoleFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseWall;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseWaterPark;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseWaterParkBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseWaterParkFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BaseWindow;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Battery;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BatteryAcidOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BatteryCharger;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BatteryChargerBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BatteryChargerFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Beacon;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BeaconFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bed1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bed2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bench;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BenchBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BenchFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Benzene;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BigCoralTubes;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BigFilteredWater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BikemanHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BikemanHullPlateBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bioreactor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BioreactorBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BioreactorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Biter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bladderfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BladderfishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bleach;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Bleeder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Blighter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BloodGrass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BloodOil;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:BloodRoot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BloodVine;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Bloom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueAmoeba;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueBarnacle;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueBarnacleCluster;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueCluster;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueCoralTubes;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueJeweledDisk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BlueLostRiverLilly;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BluePalm;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:BluePalmSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:BlueTipLostRiverPlant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BoneShark;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:BonesharkEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:BonesharkEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Boomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BoomerangAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Boulder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BrainCoral;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BrownTubes;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BuildBot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Builder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BuilderFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:BulboTree;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:BulboTreePiece;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CalciteOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CalciumChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Cap1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Cap2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CarbonOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CaveCrawler;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CaveSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Centrifuge;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Coffee;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CoffeeVendingMachine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CombustibleOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Compass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CompostCreepvine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ComputerChip;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Constructor;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:ConstructorBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ConstructorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedBladderfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedBoomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedEyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedGarryFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedHoleFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedHoopfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedHoverfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedLavaBoomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedLavaEyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedOculus;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedPeeper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedReginald;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedSpadefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CookedSpinefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Copper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CopperWire;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CoralChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CoralOldPlaceholder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CoralShellPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CountOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CoveTree;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Crabsnake;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:CrabsnakeEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CrabsnakeEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CrabSquid;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:CrabsquidEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CrabsquidEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Crash;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CrashedShip;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CrashEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CrashEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CrashHome;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CrashPowder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Creepvine;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CreepvinePiece;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CreepvineSeedCluster;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CuredBladderfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredBoomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredEyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredGarryFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredHoleFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredHoopfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredHoverfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredLavaBoomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredLavaEyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredOculus;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredPeeper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredReginald;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredSpadefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CuredSpinefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CurrentGenerator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Cutefish;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:CutefishEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CutefishEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Cyclops;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsBridgeBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsBridgeFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsDecoy;
+     Width: 1;
+    Height: 2;
+),
+(
+  ItemID:CyclopsDecoyModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsDockingBayBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsDockingBayFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsEngineBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsEngineFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsFabricator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsFireSuppressionModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsHullBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsHullFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsHullModule1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsHullModule2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsHullModule3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsSeamothRepairModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsShieldModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsSonarModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:CyclopsThermalReactorModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Databox;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DepletedReactorRod;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DevTestItem;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DevTestItemBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Diamond;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DiamondBlade;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DioramaHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DisinfectedWater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DiveHatch;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DiveReel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DiveSuit;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DolomiteOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DoubleTank;
+     Width: 2;
+    Height: 3;
+),
+(
+  ItemID:Drill;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableAluminiumOxide;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableCopper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableDiamond;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableGold;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableKyanite;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableLead;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableLithium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableMagnetite;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableMercury;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableNickel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableQuartz;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableSalt;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableSilver;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableSulphur;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableTitanium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:DrillableUranium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EatMyDiction;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EatMyDictionHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EatMyDictionHullPlateBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EmeryOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Enamel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EnameledGlass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EnvironmentPlaceholder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EnyzmeCloud;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EnzymeCureBall;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EscapePod;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EthanolOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EthyleneOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExoHullModule1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExoHullModule2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Exosuit;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitClawArmFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitClawArmModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitDrillArmFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitDrillArmModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitGrapplingArmFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitGrapplingArmModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitJetUpgradeModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitPropulsionArmFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitPropulsionArmModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitThermalReactorModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitTorpedoArmFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ExosuitTorpedoArmModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EyesPlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:EyesPlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Eyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:EyeyeAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Fabricator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FabricatorBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FarmingTray;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FarmingTrayBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FarmingTrayFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FernPalm;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:FernPalmSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Fiber;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FiberMesh;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FilteredWater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FiltrationMachine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FiltrationMachineBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Fins;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:FireExtinguisher;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FirstAidKit;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Flare;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Flashlight;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FlintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Floater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FloatingStone;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Fragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FragmentAnalyzer;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:FragmentAnalyzerBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GabeSFeather;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:GabeSFeatherSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:GarryFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GarryFishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Gasopod;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:GasopodEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:GasopodEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:GasPod;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GasTorpedo;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GenericEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GenericJeweledDisk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GhostLeviathan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GhostLeviathanJuvenile;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GhostRayBlue;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GhostRayRed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GilathissHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Glass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Gold;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Grabcrab;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GrandReefsEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Graphene;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GrassyPlateausEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Gravsphere;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:GravSphereFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GreenGrass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GreenJeweledDisk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:GreenReeds;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HangingFruit;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:HangingFruitTree;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:HangingStinger;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HatchingEnzymes;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HeatArea;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HeatBlade;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HighCapacityTank;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:HoleFish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HoleFishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Hoopfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HoopfishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HoopfishSchool;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Hoverfish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HoverfishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HugeKoosh;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HugeSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HullReinforcementModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HullReinforcementModule2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HullReinforcementModule3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HydrochloricAcid;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:HydrogenOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:IGPHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Incubator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:JackSepticEye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:JackSepticEyeHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:JellyPlant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:JellyPlantSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Jellyray;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:JellyrayEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:JellyrayEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:JeweledDiskPiece;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Jumper;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:JumperEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:JumperEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:KelpForestEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Knife;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:KooshChunk;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:KooshZoneEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Kyanite;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LabContainer;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LabContainer2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LabContainer3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LabCounter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LabEquipment1;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LabEquipment2;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LabEquipment3;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LabTrashcan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LargeFloater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LargeKoosh;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LaserCutter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LaserCutterFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LavaBoomerang;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LavaEyeye;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LavaLarva;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LavaLizard;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:LavaLizardEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LavaLizardEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:LavaZoneEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Lead;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LEDLight;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LEDLightBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LEDLightFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LimestoneChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Lithium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LithiumIonBattery;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Locker;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LockerBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Lodestone;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LootSensorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LootSensorLithium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LootSensorMetal;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LordMinionHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Lubricant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:LuggageBag;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Magnesium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Magnetite;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MapRoomCamera;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:MapRoomHUDChip;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MapRoomUpgradeScanRange;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MapRoomUpgradeScanSpeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Marki1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Marki2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MarkiplierHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MedicalCabinet;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MedicalCabinetBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MediumKoosh;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Melon;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:MelonPlant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MelonSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MembrainTree;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:MembrainTreeSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:MembraneOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MercuryOre;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Mesmer;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:MesmerEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MesmerEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Mohawk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MonsterSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MoonpoolBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MoonpoolFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MushroomForestEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:MuyskermHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Nanowires;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:NarrowBed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Nickel;
+     Width: 1;
+    Height: 1;
+),
+
+(
+  ItemID:NuclearReactor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:NuclearReactorBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:NuclearReactorFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:NutrientBlock;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ObservatoryOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ObsidianChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Oculus;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:OculusAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:OpalGem;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:OrangeMushroom;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:OrangeMushroomSpore;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:OrangePetalsPlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:OrangePetalsPlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PDA;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Peeper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PeeperAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PictureFrame;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PictureFrameBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PictureFrameFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PiecePlaceholder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PinkFlower;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PinkFlowerSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PinkMushroom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PinkMushroomSpore;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Pipe;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PipeSurfaceFloater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Placeholder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterBox;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterBoxBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterBoxFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPot2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPot2Blueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPot3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPot3Blueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPotBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterPotFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterShelf;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterShelfBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlanterShelfFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlantPlaceholder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlasteelIngot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PlasteelTank;
+     Width: 2;
+    Height: 3;
+),
+(
+  ItemID:Player;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Polyaniline;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Poster;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PosterAurora;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PosterExoSuit1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PosterExoSuit2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PosterKitty;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerCell;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerCellCharger;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerCellChargerBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerCellChargerFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerGeneratorOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerGlide;
+     Width: 2;
+    Height: 3;
+),
+(
+  ItemID:PowerTransmitter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerTransmitterBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerTransmitterFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PowerUpgradeModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorDroid;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorEnergyCore;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorFishSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorIonBattery;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorIonCrystal;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorIonCrystalMatrix;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorIonEnergyBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorIonPowerCell;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_Blue;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_Orange;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_Purple;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_PurpleFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_Red;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorKey_White;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PrecursorKeyTerminal;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLabCacheContainer1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLabCacheContainer2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLabTable;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverBrokenAnchor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverLabBones;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverLabEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverLabRays;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverProductionLine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorLostRiverWarperParts;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPipeRoomIncomingPipe;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPipeRoomOutgoingPipe;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonAquariumFinalTeleporter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonAquariumIncubator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonAquariumIncubatorEggs;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonAquariumPipe;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact10;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact11;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact12;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact13;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact4;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact5;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact6;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact7;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact8;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonArtifact9;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonIonGenerator;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonLabEmperorEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonLabEmperorFetus;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorPrisonOutposts;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorScanner;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorSeaDragonSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorSensor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorSurfacePipe;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorTeleporter;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorThermalPlant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PrecursorWarper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ProcessUranium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PropulsionCannon;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PropulsionCannonBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PropulsionCannonFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleBrainCoral;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleBrainCoralPiece;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleBranches;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleBranchesSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleFan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleFanSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleJeweledDisk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleRattle;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleRattleSpore;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleStalk;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleStalkSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleTentacle;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleTentacleSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:PurpleVasePlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleVasePlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleVegetable;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:PurpleVegetablePlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Quartz;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RabbitRay;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RabbitrayEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RabbitrayEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RadiationGloves;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RadiationHelmet;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RadiationLeakPoint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RadiationSuit;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RadiationSuitBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RadiationSuitFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Radio;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RadioBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RadioFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReactorRod;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReaperLeviathan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReaperSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Rebreather;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedBasketPlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedBasketPlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedBush;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedBushSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedConePlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedConePlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedGrass;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RedGreenTentacle;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedGreenTentacleSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedJeweledDisk;
+     Width: 1;
+    Height: 1;
+),
+(
+ ItemID:RedRollPlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedRollPlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RedSeaweed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RedTipRockThings;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Reefback;
+     Width: 4;
+    Height: 4;
+),
+(
+  ItemID:ReefbackAdvancedStructure;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReefbackBaby;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReefbackDNA;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReefbackEgg;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:ReefbackEggUndiscovered;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:ReefbackShell;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReefbackTissue;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Reginald;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReginaldAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReinforcedDiveSuit;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ReinforcedDiveSuitBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReinforcedDiveSuitFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReinforcedGloves;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ReinforceHullBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ReinforceHullFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RepulsionCannon;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:RocketBase;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RocketBaseLadder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RocketStage1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RocketStage2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RocketStage3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Rockgrub;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:RockPuncher;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SafeShallowsEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Salt;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SandLoot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Sandshark;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:SandsharkEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SandsharkEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SandstoneChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Scanner;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ScannerRoomBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ScannerRoomFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ScrapMetal;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SeaCrown;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SeaCrownSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SeaDragon;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaDragonSkeleton;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaEmperor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaEmperorBaby;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaEmperorJuvenile;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaEmperorLeviathan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Seaglide;
+     Width: 2;
+    Height: 3;
+),
+(
+  ItemID:SeaglideBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaglideFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Seamoth;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothElectricalDefense;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothReinforcementModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothSolarCharge;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothSonarModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeamothTorpedoModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaTreader;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SeaTreaderPoop;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ShaleChunk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ShellGrass;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ShellGrassSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ShipComputerOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Shocker;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:ShockerEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:ShockerEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Shuttlebug;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Sign;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Signal;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SignBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SignFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Silicone;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Silver;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SingleWallShelf;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Skyray;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SkyrayNonRoosting;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Slime;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallFan;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallFanCluster;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallFanSeed;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallKoosh;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SmallLocker;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallMelon;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SmallStorage;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Snack1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Snack2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Snack3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SnakeMushroom;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SnakeMushroomSpore;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SolarPanel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SolarPanelBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SolarPanelFragment;
+     Width: 1;
+    Height: 1;
+),
+
+(
+  ItemID:Spadefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpadefishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpadefishEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpadefishEggUndiscovered;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpecialHullPlate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpecialHullPlateBlueprintOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpecimenAnalyzer;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpecimenAnalyzerBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpecimenAnalyzerFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpikePlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SpikePlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SpineEel;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Spinefish;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpinefishAnalysis;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Spotlight;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpotlightBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpotlightFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SpottedLeavesPlant;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:SpottedLeavesPlantSeed;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Stalker;
+     Width: 3;
+    Height: 3;
+),
+(
+  ItemID:StalkerEgg;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:StalkerEggUndiscovered;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:StalkerTooth;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipCargoCrate;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipCargoCrateBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipChair;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipChair2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipChair3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipChairBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipCircuitBox;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipCircuitBoxBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipDesk;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipDeskBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipMonitor;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipMonitorBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StarshipSouvenir;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StasisRifle;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:StasisRifleBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StasisRifleFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StasisSphere;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Stillsuit;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:StillsuitBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StillsuitFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:StillsuitWater;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Sulphur;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:SwimChargeFins;
+     Width: 2;
+    Height: 2;
+),
+(
+  ItemID:Tank;
+     Width: 2;
+    Height: 3;
+),
+(
+  ItemID:Techlight;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TechlightBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TechlightFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Terraformer;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TerraformerBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TerraformerFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ThermalPlant;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ThermalPlantBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ThermalPlantFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Thermometer;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TimeCapsule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Titanium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TitaniumIngot;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:ToyCar;
+     Width: 2;
+    Height:2;
+),
+(
+  ItemID:Transfuser;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TransfuserBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TransfuserFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Trashcans;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TreeMushroom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TreeMushroomPiece;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:TwistyBridgesEgg;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:UltraGlideFins;
+     Width: 2;
+    Height: 2;
+),
+
+(
+  ItemID:UraniniteCrystal;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Uranium;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehicleArmorPlating;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehicleHullModule1;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehicleHullModule2;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehicleHullModule3;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehiclePowerUpgradeModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VehicleStorageModule;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VendingMachine;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:VesselOld;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WallShelves;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Warper;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WarperSpawner;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Welder;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WhirlpoolTorpedo;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WhiteMushroom;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WhiteMushroomSpore;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WiringKit;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Workbench;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WorkbenchBlueprint;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:WorkbenchFragment;
+     Width: 1;
+    Height: 1;
+),
+(
+  ItemID:Wreck;
+     Width: 1;
+    Height: 1;
+);
